@@ -1,1 +1,1 @@
-# Cairn
+# Git du projet CAIRN
